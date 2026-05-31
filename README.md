@@ -4,13 +4,13 @@ This project is a **business analytics case study** using Python in Google Colab
 It demonstrates how to clean and analyze a messy employee dataset to extract actionable HR and management insights.
 
 ---
+##  Repository Structure
 
-## Repository Structure
-
-│   └── Messy_Employee_dataset.csv   # Raw input data
-|   └──Cleaned_Employee_dataset.csv  # cleaned output data
-│   └── Employee_Analytics.ipynb     # Google Colab notebook with cleaning + EDA
-|   └── README.md                    # Project documentation
+```plaintext
+├── Messy_Employee_dataset.csv       # Raw input data
+├──Cleaned_Employee_dataset.csv      # cleaned output data
+├── Employee_Analytics.ipynb         # Google Colab notebook with cleaning + EDA
+└── README.md                        # Project documentation
 
 ---
 ## Tools & Libraries
